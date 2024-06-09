@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "falmer@outlook.com",
+                "Name": "kr0s"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Aquarelle Green",
+        "Description" : "Aquarelle Window Decoration",
+        "Id": "Aquarelle-Green-Aurorae",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

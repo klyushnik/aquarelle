@@ -42,8 +42,8 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="16.000001"
-     inkscape:cx="-6.3749996"
-     inkscape:cy="27.156248"
+     inkscape:cx="-18.374999"
+     inkscape:cy="20.218749"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,11 +73,11 @@
      style="display:inline;enable-background:new">
     <path
        id="rect4995-7"
-       style="fill:#ffffff;fill-opacity:0.3;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.66666669;enable-background:new"
        d="m -41.125008,2.125002 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z"
        transform="translate(44)" />
     <rect
-       style="display:inline;fill:#fefefe;fill-opacity:0.58;stroke-width:0.993127;enable-background:new"
+       style="display:inline;fill:#fefefe;fill-opacity:0.66666669;stroke-width:0.993127;enable-background:new"
        id="rect1441"
        width="9"
        height="1.9999999"
@@ -98,10 +98,10 @@
        y="-21.014719" />
     <path
        id="rect4995-7-3"
-       style="fill:#ffffff;fill-opacity:0.61;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.80000001;enable-background:new"
        d="m -20.078873,-22.014719 v 1 15 1 h 17.0000003 v -1 -15 -1 z m 1,1 h 15.0000003 v 15 H -19.078873 Z" />
     <rect
-       style="display:inline;fill:#fefefe;fill-opacity:0.58;stroke-width:0.993127;enable-background:new"
+       style="display:inline;fill:#fefefe;fill-opacity:0.80000001;stroke-width:0.993127;enable-background:new"
        id="rect1444"
        width="9"
        height="1.9999999"
@@ -171,10 +171,10 @@
        y="3.6716266" />
     <path
        id="rect4995-7-3-6"
-       style="fill:#ffffff;fill-opacity:0.5;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.66666669;enable-background:new"
        d="m 1.786983,2.671627 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z" />
     <rect
-       style="display:inline;fill:#fefefe;fill-opacity:0.58;stroke-width:0.993127;enable-background:new"
+       style="display:inline;fill:#fefefe;fill-opacity:0.80000001;stroke-width:0.993127;enable-background:new"
        id="rect1453"
        width="9"
        height="1.9999999"
@@ -188,7 +188,7 @@
      inkscape:label="inactive-center">
     <path
        id="rect323"
-       style="fill:#ffffff;fill-opacity:0.2;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.40000001;enable-background:new"
        d="m -41.125008,2.125002 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z"
        transform="translate(44)" />
     <rect

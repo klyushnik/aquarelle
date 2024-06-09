@@ -42,8 +42,8 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="16.000001"
-     inkscape:cx="-3.9374998"
-     inkscape:cy="24.468748"
+     inkscape:cx="-24.749998"
+     inkscape:cy="20.843749"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,14 +73,14 @@
      style="display:inline;enable-background:new">
     <path
        id="rect4995-7"
-       style="fill:#ffffff;fill-opacity:0.3;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.66666669;enable-background:new"
        d="m -41.125008,2.125002 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z"
        transform="translate(44)" />
     <path
        d="m -31.505286,6 c -0.01047,1.46e-4 -0.02093,0.0011 -0.03136,0.0023 -0.07198,0.0088 -0.138948,0.04243 -0.190135,0.09571 l -4.177297,4.331325 c -0.06112,0.0623 -0.09566,0.1474 -0.09592,0.236349 -2.87e-4,0.08887 0.03363,0.17417 0.09435,0.237016 0.06064,0.06277 0.14296,0.09781 0.228706,0.09728 h 8.353327 c 0.08581,9.93e-4 0.168267,-0.03419 0.229063,-0.09696 0.06083,-0.06279 0.09484,-0.148148 0.09455,-0.237176 -2.07e-4,-0.08893 -0.03481,-0.174097 -0.09585,-0.236497 l -4.178035,-4.331452 c -0.06129,-0.06366 -0.144826,-0.09885 -0.231501,-0.09764 z"
        fill-rule="evenodd"
        id="path2"
-       style="fill:#fefefe;fill-opacity:0.58;stroke-width:0.0186929;enable-background:new"
+       style="fill:#fefefe;fill-opacity:0.66666669;stroke-width:0.0186929;enable-background:new"
        transform="translate(42.874992,2.125002)" />
   </g>
   <g
@@ -96,13 +96,13 @@
        y="-21.014719" />
     <path
        id="rect4995-7-3"
-       style="fill:#ffffff;fill-opacity:0.61;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.80000001;enable-background:new"
        d="m -20.078873,-22.014719 v 1 15 1 h 17.0000003 v -1 -15 -1 z m 1,1 h 15.0000003 v 15 H -19.078873 Z" />
     <path
        d="m -11.505286,6 c -0.01047,1.46e-4 -0.02093,0.0011 -0.03136,0.0023 -0.07198,0.0088 -0.138948,0.04243 -0.190135,0.09571 l -4.177297,4.331325 c -0.06112,0.0623 -0.09566,0.1474 -0.09592,0.236349 -2.87e-4,0.08887 0.03363,0.17417 0.09435,0.237016 0.06064,0.06277 0.14296,0.09781 0.228706,0.09728 h 8.353327 c 0.08581,9.93e-4 0.168267,-0.03419 0.229063,-0.09696 0.06083,-0.06279 0.09484,-0.148148 0.09455,-0.237176 -2.07e-4,-0.08893 -0.03481,-0.174097 -0.09585,-0.236497 l -4.178035,-4.331452 c -0.06129,-0.06366 -0.144826,-0.09885 -0.231501,-0.09764 z"
        fill-rule="evenodd"
        id="path593"
-       style="fill:#fefefe;fill-opacity:0.58;stroke-width:0.0186929;enable-background:new"
+       style="fill:#fefefe;fill-opacity:0.80000001;stroke-width:0.0186929;enable-background:new"
        transform="translate(-0.07887268,-22.014719)" />
   </g>
   <g
@@ -165,13 +165,13 @@
        y="3.6716266" />
     <path
        id="rect4995-7-3-6"
-       style="fill:#ffffff;fill-opacity:0.5;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.66666669;enable-background:new"
        d="m 1.786983,2.671627 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z" />
     <path
        d="m -11.505286,31 c -0.01047,1.46e-4 -0.02093,0.0011 -0.03136,0.0023 -0.07198,0.0088 -0.138948,0.04243 -0.190135,0.09571 l -4.177297,4.331325 c -0.06112,0.0623 -0.09566,0.1474 -0.09592,0.236349 -2.87e-4,0.08887 0.03363,0.17417 0.09435,0.237016 0.06064,0.06277 0.14296,0.09781 0.228706,0.09728 h 8.353327 c 0.08581,9.93e-4 0.168267,-0.03419 0.229063,-0.09696 0.06083,-0.06279 0.09484,-0.148148 0.09455,-0.237176 -2.07e-4,-0.08893 -0.03481,-0.174097 -0.09585,-0.236497 l -4.178035,-4.331452 c -0.06129,-0.06366 -0.144826,-0.09885 -0.231501,-0.09764 z"
        fill-rule="evenodd"
        id="path597"
-       style="fill:#fefefe;fill-opacity:0.58;stroke-width:0.0186929;enable-background:new"
+       style="fill:#fefefe;fill-opacity:0.80000001;stroke-width:0.0186929;enable-background:new"
        transform="translate(21.786983,-22.284179)" />
   </g>
   <g
@@ -181,7 +181,7 @@
      inkscape:label="inactive-center">
     <path
        id="rect323"
-       style="fill:#ffffff;fill-opacity:0.2;enable-background:new"
+       style="fill:#ffffff;fill-opacity:0.40000001;enable-background:new"
        d="m -41.125008,2.125002 v 1 15 1 h 17 v -1 -15 -1 z m 1,1 h 15 v 15 h -15 z"
        transform="translate(44)" />
     <path
