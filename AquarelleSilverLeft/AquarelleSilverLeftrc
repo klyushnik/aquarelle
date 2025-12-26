@@ -29,10 +29,10 @@ TitleBorderRight=5
 TitleEdgeBottom=3
 TitleEdgeBottomMaximized=3
 TitleEdgeLeft=5
-TitleEdgeLeftMaximized=5
+TitleEdgeLeftMaximized=0
 TitleEdgeRight=5
-TitleEdgeRightMaximized=5
+TitleEdgeRightMaximized=0
 TitleEdgeTop=3
-TitleEdgeTopMaximized=3
+TitleEdgeTopMaximized=0
 TitleHeight=21
 
