@@ -7,7 +7,7 @@
    viewBox="0 0 450 300"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="decoration.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,14 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="20.506096"
-     inkscape:cy="83.085045"
+     inkscape:cx="294.15641"
+     inkscape:cy="5.6568541"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="decoration-bottomleft">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid3227"
@@ -483,6 +483,28 @@
        fx="390.12"
        fy="240"
        r="19" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4-1"
+       id="linearGradient6"
+       x1="491.89185"
+       y1="-114.27134"
+       x2="588.76544"
+       y2="-114.27134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-524.89184,46.271339)" />
+    <linearGradient
+       id="linearGradient4-1"
+       inkscape:label="maximized">
+      <stop
+         style="stop-color:#7b7b7b;stop-opacity:0.74901962;"
+         offset="0"
+         id="stop4-6" />
+      <stop
+         style="stop-color:#d9d9d9;stop-opacity:0.74901962;"
+         offset="0.37097514"
+         id="stop3-3" />
+    </linearGradient>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1378,5 +1400,23 @@
          y="55"
          transform="scale(-1,1)" />
     </g>
+    <rect
+       style="display:inline;fill:url(#linearGradient6);stroke-width:0.987421"
+       id="decoration-maximized-center"
+       width="96.874001"
+       height="27.577164"
+       x="-33"
+       y="-81.788582"
+       transform="translate(444,9)"
+       inkscape:label="decoration-maximized-center" />
+    <rect
+       style="display:inline;fill:#7b7b7b;fill-opacity:0.74902;stroke-width:1.01113"
+       id="decoration-maximized-inactive-center"
+       width="96.873581"
+       height="27.577164"
+       x="-32.373596"
+       y="-124.78858"
+       transform="translate(444,9)"
+       inkscape:label="decoration-maximized-inactive-center" />
   </g>
 </svg>
