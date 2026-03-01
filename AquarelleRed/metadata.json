@@ -15,7 +15,7 @@
         "Name": "Aquarelle Red",
         "Description" : "Aquarelle Window Decoration",
         "Id": "Aquarelle-Red-Aurorae",
-        "Version": "1.0",
+        "Version": "1.2",
         "License": "GPLv3",
         "X-KPackage-Dependencies": [
         ]
