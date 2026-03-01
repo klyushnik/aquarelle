@@ -15,7 +15,7 @@
         "Name": "Aquarelle Purple",
         "Description" : "Aquarelle Window Decoration",
         "Id": "Aquarelle-Purple-Aurorae",
-        "Version": "1.0",
+        "Version": "1.2",
         "License": "GPLv3",
         "X-KPackage-Dependencies": [
         ]

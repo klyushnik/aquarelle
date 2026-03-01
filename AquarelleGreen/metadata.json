@@ -15,7 +15,7 @@
         "Name": "Aquarelle Green",
         "Description" : "Aquarelle Window Decoration",
         "Id": "Aquarelle-Green-Aurorae",
-        "Version": "1.0",
+        "Version": "1.2",
         "License": "GPLv3",
         "X-KPackage-Dependencies": [
         ]
